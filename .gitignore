@@ -55,3 +55,4 @@ config.toml
 venv
 venv*
 .python-version
+/sd-Scripts
